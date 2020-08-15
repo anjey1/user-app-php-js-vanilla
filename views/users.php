@@ -24,7 +24,7 @@
 ?>
   <a id="logout" href="/logout">Logout</a></header>
   <article id="mainArticle"></article>
-  <footer id="pageFooter">Footer</footer>
+  <footer id="pageFooter"></footer>
 </body>
 <script>
 <?php include 'js/users.js'; ?>
