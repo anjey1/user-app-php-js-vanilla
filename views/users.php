@@ -2,10 +2,6 @@
 <style>
 <?php include 'css/users.css'; ?>
 </style>
-<script>
-<?php include 'js/users.js'; ?>
-</script>
-
 <title>Users page</title>
 <div id="myModal" class="modal">
   <!-- Modal content -->
@@ -16,7 +12,6 @@
     <p id="registerTime">Register Time Not Available</p>
   </div>
 </div>
-
 <body onload="fetchUsers()">
 <header id="pageHeader">
 <?php
@@ -31,4 +26,7 @@
   <article id="mainArticle"></article>
   <footer id="pageFooter">Footer</footer>
 </body>
+<script>
+<?php include 'js/users.js'; ?>
+</script>
 
