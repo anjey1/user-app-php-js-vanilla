@@ -26,10 +26,3 @@ i have pre created 3 users with default data
 all the names are the user names from the list ('Jennifer, 'John', 'James') all
 
 the users have the same password.
-
-
-## Multiple Use
-
-you can log on from different incognito tabs / different tabs to immitate all 
-
-3 users
