@@ -26,3 +26,7 @@ i have pre created 3 users with default data
 all the names are the user names from the list ('Jennifer, 'John', 'James') all
 
 the users have the same password.
+
+## Live Demo
+
+https://user-app-vanilla-php-js.herokuapp.com/
